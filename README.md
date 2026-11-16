@@ -2,7 +2,7 @@
 
 In a controlled trial, the patients in the control group get better too.
 Talk of a dramatic "placebo effect" was originally inspired by such improvements.
-For example, before-vs-after comparisons constitute almost the entirety of Beecher's influential 1955 paper "The Powerful Placebo".
+For example, before-vs-after comparisons constitute almost the entirety of [Beecher's influential 1955 paper "The Powerful Placebo"](https://archive.org/download/sim_jama_1955-12-24_159_17/sim_jama_1955-12-24_159_17.pdf#page=46).
 
 But of course the patients may have improved as much if they had simply been sent home instead of being included in the control group of a trial.
 Truly measuring a "placebo effect" requires the unusual situation of a trial that includes both a placebo control and a no-pill control.
