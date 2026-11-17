@@ -1,13 +1,16 @@
 # I think "the placebo effect" just measures blinding
 
 In a controlled trial, the patients in the control group get better too.
+In trials of depression, for example, [a score measuring the symptoms of depression decreases by about 80% as much in the placebo group as the drug group](https://doi.org/10.1371/journal.pmed.0050045).
+
 Talk of a dramatic "placebo effect" was originally inspired by such improvements.
 For example, before-vs-after comparisons constitute almost the entirety of [Beecher's influential 1955 paper "The Powerful Placebo"](https://archive.org/download/sim_jama_1955-12-24_159_17/sim_jama_1955-12-24_159_17.pdf#page=46).
 
 But of course the patients may have improved as much if they had simply been sent home instead of being included in the control group of a trial.
+For example, [depression mostly comes in episodes measured in months](https://doi.org/10.1192/bjp.181.3.208), so we see improvements not only in depression trial control groups [but also on depression trial waitlists](https://doi.org/10.1016/S0165-0327(00)00304-9).
+
 Truly measuring a "placebo effect" requires the unusual situation of a trial that includes both a placebo control and a no-pill control.
 Such trials were collected into [a meta-analysis of the placebo effect](https://pubmed.ncbi.nlm.nih.gov/20091554/) by Hróbjartsson & Gøtzsche (let's call them H&G).
-
 The standardized mean difference (SMD) between the placebo group and untreated group was about 0.25, for pain, nausea, and depression.
 SMD compares between-group variation to within-group variation: it's the difference in means between groups, divided by the standard deviation of a single group.
 
