@@ -58,6 +58,7 @@ The placebo effect "works not only subjectively (ie you feel less pain) but obje
 
 These were not just rationalist misunderstandings of mainstream thought.
 Beecher's "Powerful Placebo" paper also claimed objective effects, and cited an effect on the common cold (where "effect", again, was just a before vs after comparison).
+As for Hanson's post, after some digging [I found that the culprit was misreporting by _New Scientist_](https://www.lesswrong.com/posts/kpd83h5XHgWCxnv3h/why-i-don-t-believe-in-the-placebo-effect#Example__The_common_cold).
 
 Though we still talk about "the placebo effect" on LW, the scope and magnitude are far more limited than what we used to have in mind.
 At least what we used to mean by it has been refuted.
