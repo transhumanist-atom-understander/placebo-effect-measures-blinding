@@ -4,15 +4,15 @@ In a controlled trial, the patients in the control group get better too.
 In trials of depression, for example, [a score measuring the symptoms of depression decreases by about 80% as much in the placebo group as the drug group](https://doi.org/10.1371/journal.pmed.0050045).
 
 Talk of a dramatic "placebo effect" was originally inspired by such improvements.
-For example, before-vs-after comparisons constitute almost the entirety of [Beecher's influential 1955 paper "The Powerful Placebo"](https://archive.org/download/sim_jama_1955-12-24_159_17/sim_jama_1955-12-24_159_17.pdf#page=46).
+Before-vs-after comparisons constitute almost the entirety of [Beecher's influential 1955 paper "The Powerful Placebo"](https://archive.org/download/sim_jama_1955-12-24_159_17/sim_jama_1955-12-24_159_17.pdf#page=46).
 
 But of course the patients may have improved as much if they had simply been sent home instead of being included in the control group of a trial.
 For example, [depression mostly comes in episodes measured in months](https://doi.org/10.1192/bjp.181.3.208), so we see improvements not only in depression trial control groups [but also on depression trial waitlists](https://doi.org/10.1016/S0165-0327(00)00304-9).
 
 Truly measuring a "placebo effect" requires the unusual situation of a trial that includes both a placebo control and a no-pill control.
 Such trials were collected into [a meta-analysis of the placebo effect](https://pubmed.ncbi.nlm.nih.gov/20091554/) by Hróbjartsson & Gøtzsche (let's call them H&G).
+I [already posted my notes on H&G](https://www.lesswrong.com/posts/kpd83h5XHgWCxnv3h/why-i-don-t-believe-in-the-placebo-effect), but in a sentence:
 The standardized mean difference (SMD) between the placebo group and untreated group was about 0.25, for pain, nausea, and depression.
-SMD compares between-group variation to within-group variation: it's the difference in means between groups, divided by the standard deviation of a single group.
 
 ## The placebo effect assuming placebos do nothing
 
@@ -53,8 +53,8 @@ I have to admit I don't have any refutation of these other interpretations of th
 But I won't leave it at that.
 I at least want to remind people how far this is from what we understood "the placebo effect" to mean on old LessWrong.
 
-The placebo effect "works not only subjectively (ie you feel less pain) but objectively (ie ulcers heal more quickly, inflammation decreases)", on LessWrong in 2009.
-[On OvercomingBias in 2012](https://web.archive.org/web/20230206214113/https://www.overcomingbias.com/2012/09/placebos-show-care.html), placebos fight cold infections by ramping up your immune system.
+The placebo effect "works not only subjectively (ie you feel less pain) but objectively (ie ulcers heal more quickly, inflammation decreases)", in a 2009 post by Scott Alexander.
+[From Robin Hanson in 2012](https://web.archive.org/web/20230206214113/https://www.overcomingbias.com/2012/09/placebos-show-care.html), you may have heard that placebos fight cold infections by ramping up your immune system.
 
 These were not just rationalist misunderstandings of mainstream thought.
 Beecher's "Powerful Placebo" paper also claimed objective effects, and cited an effect on the common cold (where "effect", again, was just a before vs after comparison).
@@ -65,6 +65,6 @@ At least what we used to mean by it has been refuted.
 # The rhetorical role of the placebo effect
 
 I at least don't think the placebo effect, as we now understand it, is up to the task some set it to: demonstrating the plausibility of the power of belief.
-Maybe the power of belief is the supernatural [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)), or maybe it's a subconscious effect on behavior.
-The 2009 LessWrong post I linked above was about Scott Adams's affirmation practice, citing the placebo effect as at least one case where we know belief makes a difference.
-Personally I'm skeptical of the whole category, but whether or not you are, I don't think the placebo effect can serve the role of the one scientifically confirmed example.
+Even if we don't mean the supernatural [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)), and instead just a subconscious effect on behavior, such effects are hard to judge and subject to confirmation bias, so the placebo effect is recruited to show there's at least one scientifically confirmed example of the general category.
+For example, the 2009 Scott Alexander post I linked above was about Scott Adams's affirmation practice.
+It's past time for the placebo effect to retire from this work.
