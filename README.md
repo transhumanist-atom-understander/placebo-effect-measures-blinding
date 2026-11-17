@@ -27,7 +27,6 @@ Because placebos are a tool for blinding.
 Taking one step back, why do we blind trials?
 Because the patient and doctor's knowledge about the treatment may affect their reports.
 We want to hold that constant between groups, so the difference between the groups reflects the influence of the treatment, not their expectations.
-Now, here's a question.
 
 Imagine yourself as an iconoclast, saying that double blinding is a needless ritual, because patient and doctor reports are perfectly objective.
 Finally, you convince the medical establishment to test blinding.
