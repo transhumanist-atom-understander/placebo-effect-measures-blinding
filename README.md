@@ -62,7 +62,7 @@ As for Hanson's post, after some digging [I found that the culprit was misreport
 Though we still talk about "the placebo effect" on LW, the scope and magnitude are far more limited than what we used to have in mind.
 At least what we used to mean by it has been refuted.
 
-# The rhetorical role of the placebo effect
+## The rhetorical role of the placebo effect
 
 I at least don't think the placebo effect, as we now understand it, is up to the task some set it to: demonstrating the plausibility of the power of belief.
 Even if we don't mean the supernatural [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)), and instead just a subconscious effect on behavior, the power of positive thinking is hard to judge and subject to confirmation bias.
