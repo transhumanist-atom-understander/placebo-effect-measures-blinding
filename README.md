@@ -67,5 +67,5 @@ At least what we used to mean by it has been refuted.
 I at least don't think the placebo effect, as we now understand it, is up to the task some set it to: demonstrating the plausibility of the power of belief.
 Even if we don't mean the supernatural [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)), and instead just a subconscious effect on behavior, the power of positive thinking is hard to judge and subject to confirmation bias.
 The placebo effect is recruited to show there's at least one scientifically confirmed example where a belief in a positive outcome brings it about.
-For example, the 2009 Scott Alexander post I quoted above was about Scott Adams's affirmation practice.
+For example, the 2009 Scott Alexander post I linked above was about Scott Adams's affirmation practice.
 It's past time for the placebo effect to retire from this work.
