@@ -38,7 +38,7 @@ If there's no "placebo effect"—by which I just mean the statistical difference
 
 And we see in the H&G meta-analysis that the placebo and no-pill groups do have some small difference in reported outcome.
 No larger, I think, than we might expect for the effect of expectations on reports that justifies blinding.
-Furthermore, the pattern seems right: the "placebo effect" is largest for patient-reported outcomes, whereas observer-reported outcomes had a SMD of only 0.13.
+Furthermore, the pattern seems right: the "placebo effect" is largest for patient-reported outcomes, whereas observer-reported outcomes had an SMD of only 0.13.
 
 ## The placebo effect we used to believe in
 
