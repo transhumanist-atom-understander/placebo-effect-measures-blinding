@@ -52,7 +52,7 @@ I have to admit I don't have any refutation of these other interpretations of th
 But I won't leave it at that.
 I at least want to remind people how far this is from what we understood "the placebo effect" to mean on old LessWrong.
 
-The placebo effect "works not only subjectively (ie you feel less pain) but objectively (ie ulcers heal more quickly, inflammation decreases)", in a 2009 post by Scott Alexander.
+The placebo effect "works not only subjectively (ie you feel less pain) but objectively (ie ulcers heal more quickly, inflammation decreases)", in [a 2009 post by Scott Alexander](https://www.lesswrong.com/posts/B4AyJXYPpGbBmxQzd/what-i-tell-you-three-times-is-true).
 [From Robin Hanson in 2012](https://web.archive.org/web/20230206214113/https://www.overcomingbias.com/2012/09/placebos-show-care.html), you may have heard that placebos fight cold infections by ramping up your immune system.
 
 These were not just rationalist misunderstandings of mainstream thought.
@@ -67,5 +67,5 @@ At least what we used to mean by it has been refuted.
 I at least don't think the placebo effect, as we now understand it, is up to the task some set it to: demonstrating the plausibility of the power of belief.
 Even if we don't mean the supernatural [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)), and instead just a subconscious effect on behavior, the power of positive thinking is hard to judge and subject to confirmation bias.
 The placebo effect is recruited to show there's at least one scientifically confirmed example where a belief in a positive outcome brings it about.
-For example, the 2009 Scott Alexander post I quoted above was about Scott Adams's affirmation practice.
+For example, the 2009 Scott Alexander post I linked above was about Scott Adams's affirmation practice.
 It's past time for the placebo effect to retire from this work.
