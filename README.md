@@ -36,7 +36,7 @@ You would do H&G's meta-analysis.
 You would compare placebo groups to no-pill groups.
 If there's no "placebo effect"—by which I just mean the statistical difference between the groups—then blinding was unnecessary after all.
 
-And we see in the H&G meta-analysis that he placebo and no-pill groups do have some small difference in reported outcome.
+And we see in the H&G meta-analysis that the placebo and no-pill groups do have some small difference in reported outcome.
 No larger, I think, than we might expect for the effect of expectations on reports that justifies blinding.
 Furthermore, the pattern seems right: the "placebo effect" is largest for patient-reported outcomes, whereas observer-reported outcomes had a SMD of only 0.13.
 
