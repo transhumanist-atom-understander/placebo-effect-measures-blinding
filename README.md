@@ -1,5 +1,3 @@
-# I think "the placebo effect" just measures blinding
-
 In a controlled trial, the patients in the control group get better too.
 In trials of depression, for example, [a score measuring the symptoms of depression decreases by about 80% as much in the placebo group as the drug group](https://doi.org/10.1371/journal.pmed.0050045).
 
