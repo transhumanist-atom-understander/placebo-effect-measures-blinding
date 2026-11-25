@@ -26,7 +26,14 @@ At least what we used to mean by it has been refuted.
 
 ## The placebo effect now
 
--The standardized mean difference (SMD) between the placebo group and untreated group was about 0.25, for pain, nausea, and depression.
+I don't know of any credible evidence that a placebo can fight a virus, or improves objective physiological measures.
+The scope is narrowed to conditions where we rely heavily on self-reports.
+The H&G meta-analysis focused especially on pain, nausea, and depression.
+
+As for the magnitude, we can quantify it with standardized mean difference (SMD), the difference between groups relative to the variation within groups.
+H&G found about 0.25 for all three conditions.
+
+Typical drug effects for antidepressants aren't much higher than that, but those are by comparison to a placebo group.
 
 ## The placebo effect assuming placebos do nothing
 
