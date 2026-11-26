@@ -1,3 +1,15 @@
+we used to believe in a placebo effect that was, like, cool.
+Some objective physiological response to belief that could fight a virus or something.
+By “we” I guess I mean posters on old LessWrong, though this was also prevalent in the wider culture.
+
+People suggested using placebos as treatment.
+And the idea that placebos were scientifically known to be beneficial at least in the context of trials was used to support other ideas about the power of belief, like, placebos in clinical trials shows there's at least one scientific example.
+
+I don't think any of this holds up anymore, and I've come to believe that there's no "placebo effect" in the sense of a benefit to a patient.
+Others have their own reasons for believing placebos really help people, but it's not as exciting as it used to seem: no effects on objective measures like viral infection, just on conditions like depression or pain that rely heavily on self-reports, and effects smaller than the effect of drugs.
+
+## What's the placebo effect
+
 In a controlled trial, the patients in the control group get better too.
 In trials of depression, for example, [a score measuring the symptoms of depression decreases by about 80% as much in the placebo group as the drug group](https://doi.org/10.1371/journal.pmed.0050045).
 
